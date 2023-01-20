@@ -1,2 +1,6 @@
 # Linosavage-discord-developer-
-I'm Lino Savage, a Discord developer
+Lino savage
+developer
+Discord admin
+bot designer
+Server designer 
